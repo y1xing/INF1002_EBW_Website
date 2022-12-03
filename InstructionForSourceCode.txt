@@ -1,0 +1,17 @@
+Api - Backend of the website built using Flask
+	dataset - CSV files
+	api.py - Codes for the Flask API
+
+
+Data_scraper - Scraper to scrape data from booking.com
+	main.py - Not used
+	Scraper Folder - Data crawler and Data Scraper codes
+
+
+Analysis_Notebooks - ipynb notebooks
+	classifier.ipynb - Classifier algorithm to classify reviews
+	Data_Cleaning.ipynb - Data cleaning for general and reviews data
+	INF1002_Hotel_Analysis.ipynb - Analysis code with charts and word cloud
+	vader-sa.ipynb - Sentiment Analysis model code
+
+Src - Frontend code built with nextjs and reactjs

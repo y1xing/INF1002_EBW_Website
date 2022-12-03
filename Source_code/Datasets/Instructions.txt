@@ -1,0 +1,5 @@
+reviewsDataOffical - All the uncleaned review data scraped from bookng.com
+reviewDataAnalysed - All the review data after, cleaning, reviews classified and sentimental scores has been added
+generalDataOffical - All the uncleaned general data scraped from booking.com
+generalDataClean - All the general data of the hotels after it has been cleaned
+associative words - Contains all the categories and their associativw words
