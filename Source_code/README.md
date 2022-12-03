@@ -1,5 +1,20 @@
 ## Getting Started
 
+data_scraper directory consists of files we used to scrape data from Booking.com
+- The main codes used to scrape are in scraper->hotel_scraper.py and scraper->extraction.py
+
+Datasets directory consists of csv files that was generated from
+1. Data scraping
+2. Data cleaning
+
+Analysis_Notebooks directory consists of jupyter notebooks used to
+1. Do data cleaning
+2. Overall Analysis for the report
+3. Classifer Algorithm to classify reviews
+4. Vader-sa algorithm for sentiment analysis
+
+## To run the website
+
 First, run the flask backend:
 
 ```bash
